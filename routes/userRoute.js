@@ -12,4 +12,4 @@ router.post('/login',loginController)
 router.post('/register',registerController)
 
 
-module.export=router
+module.exports=router

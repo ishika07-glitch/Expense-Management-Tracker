@@ -18,4 +18,4 @@ router.post('/delete-transaction',deleteTransaction)
 router.post('/get-transaction',getAllTransaction)
 
 
-module.export=router
+module.exports=router

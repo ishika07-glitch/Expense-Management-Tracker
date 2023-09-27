@@ -31,4 +31,4 @@ required:true
 }, { timestamps: true })
 
 const transactionModel = mongoose.model('transactions', transactionSchema);
-module.export=transactionModel;
+module.exports=transactionModel;
